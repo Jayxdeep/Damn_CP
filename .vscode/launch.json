@@ -1,0 +1,150 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "qtuf",
+      "request": "launch",
+      "mainClass": "qtuf",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "tuf",
+      "request": "launch",
+      "mainClass": "tuf",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "sort3",
+      "request": "launch",
+      "mainClass": "sort3",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "sort2",
+      "request": "launch",
+      "mainClass": "sort2",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "Sort",
+      "request": "launch",
+      "mainClass": "Sort",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "fact",
+      "request": "launch",
+      "mainClass": "fact",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "Stack",
+      "request": "launch",
+      "mainClass": "Stack",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "MinHeap",
+      "request": "launch",
+      "mainClass": "MinHeap",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "lca.Solution",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "insert.Solution",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "search.Solution",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "solution",
+      "request": "launch",
+      "mainClass": "solution",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "GfG",
+      "request": "launch",
+      "mainClass": "GfG",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "revvv",
+      "request": "launch",
+      "mainClass": "revvv",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "palln",
+      "request": "launch",
+      "mainClass": "palln",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "agee",
+      "request": "launch",
+      "mainClass": "array.agee",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/cp",
+      "program": "d:/cp/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
