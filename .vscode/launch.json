@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Arrays.Main",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
       "name": "qtuf",
       "request": "launch",
       "mainClass": "qtuf",
