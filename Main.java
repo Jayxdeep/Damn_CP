@@ -88,5 +88,10 @@ public class Main {
         // Detect loop
         printlist(list);
     }
+
+    private static void printlist(SinglyLinkedList list) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'printlist'");
+    }
 }
 

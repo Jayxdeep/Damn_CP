@@ -17,7 +17,7 @@ public class Scope {
         //scope for loop
         for (int i = 0; i < 4; i++) {
             int num=50;
-            int a=54;
+            int innerA=54;
             
         }
 

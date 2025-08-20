@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "missnum",
+      "request": "launch",
+      "mainClass": "basic.missnum",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
+      "name": "union",
+      "request": "launch",
+      "mainClass": "basic.union",
+      "projectName": "cp_3d958a6"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "Arrays.Main",
