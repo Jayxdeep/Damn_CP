@@ -1,0 +1,23 @@
+package cape;
+import java.util.*;
+public class p1 { //moving the hash character to starting 
+    public static void movehash(String str,int n){
+        String str1=new String("");
+        String str2=new String("");
+        for(int i=0;i<n;i++){
+            if(str.charAt(i)=='#'){
+                str1=str1+str.charAt(i);
+            }else{
+                str2=str2+str.charAt(i);
+            }
+        }
+         String res=str1.concat(str2);
+            System.out.println(res);
+    }
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        String a=sc.nextLine();
+        int len=a.length();
+        movehash(a, len);
+    }
+}
