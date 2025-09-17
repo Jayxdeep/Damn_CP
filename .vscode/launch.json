@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "saddlepoint",
+      "request": "launch",
+      "mainClass": "euro.saddlepoint",
+      "projectName": "Damn_CP_9099d0e5"
+    },
+    {
+      "type": "java",
+      "name": "VowelFilter",
+      "request": "launch",
+      "mainClass": "euro.VowelFilter",
+      "projectName": "Damn_CP_9099d0e5"
+    },
+    {
+      "type": "java",
+      "name": "MaxSumSubMatrix",
+      "request": "launch",
+      "mainClass": "euro.MaxSumSubMatrix",
+      "projectName": "Damn_CP_9099d0e5"
+    },
+    {
+      "type": "java",
+      "name": "PatternMatching",
+      "request": "launch",
+      "mainClass": "euro.PatternMatching",
+      "projectName": "Damn_CP_9099d0e5"
+    },
+    {
+      "type": "java",
+      "name": "p2",
+      "request": "launch",
+      "mainClass": "euro.p2",
+      "projectName": "Damn_CP_9099d0e5"
+    },
+    {
+      "type": "java",
+      "name": "p3",
+      "request": "launch",
+      "mainClass": "str.easy.p3",
+      "projectName": "Damn_CP_9099d0e5"
+    },
+    {
+      "type": "java",
+      "name": "p1",
+      "request": "launch",
+      "mainClass": "euro.p1",
+      "projectName": "Damn_CP_9099d0e5"
+    },
+    {
+      "type": "java",
       "name": "missnum",
       "request": "launch",
       "mainClass": "basic.missnum",

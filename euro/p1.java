@@ -1,6 +1,6 @@
-package str.easy;
+package euro;
 
-public class p3 {
+public class p1 { // valid anagram
     public static void main(String[] args) {
         String s="INTEGER";
         String t="NTEGERI";
@@ -25,3 +25,4 @@ public class p3 {
         return true;
     }
 }
+
