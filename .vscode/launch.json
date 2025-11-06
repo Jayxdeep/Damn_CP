@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "L",
+      "request": "launch",
+      "mainClass": "LL.L",
+      "projectName": "Damn_CP_9099d0e5"
+    },
+    {
+      "type": "java",
+      "name": "L",
+      "request": "launch",
+      "mainClass": "L",
+      "projectName": "Damn_CP_9099d0e5"
+    },
+    {
+      "type": "java",
+      "name": "l1",
+      "request": "launch",
+      "mainClass": "l1",
+      "projectName": "Damn_CP_9099d0e5"
+    },
+    {
+      "type": "java",
       "name": "saddlepoint",
       "request": "launch",
       "mainClass": "euro.saddlepoint",
